@@ -1,2 +1,2 @@
 # IOT
-Random iot project codes, arduini and stuff
+Random iot project codes, arduino and stuff
