@@ -1,4 +1,5 @@
-
+// This is to make the node mcu work with cayenne api.
+// for some reason it does not work without the blynk header file.
 #include <ESP8266WiFi.h>
 #include "CayenneDefines.h"
 #include "BlynkSimpleEsp8266.h"
